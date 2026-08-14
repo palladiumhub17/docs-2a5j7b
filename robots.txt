@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-tp8747.kujang138.shop/sitemap.xml
